@@ -38,7 +38,7 @@ const getDateTime = (dt) => {
 };
 
 // Default city
-let city = "Mumbai";
+let city = "Nagpur";
 
 // Event listener for the search form submission
 citySearch.addEventListener("submit", (e) => {
